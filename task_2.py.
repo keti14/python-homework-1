@@ -1,0 +1,11 @@
+
+input_1 = input('ჩაწერეთ პირველი რიცხვი - ')
+input_2 = input('ჩაწერეთ მეორე რიცხვი - ')
+Number_1 = float(input_1)
+Number_2 = float(input_2)
+if Number_1 > Number_2:
+    print('პირველი მეტია')
+elif Number_1 < Number_2:
+    print('მეორე მეტია')
+else:
+    print('რიცხვები ტოლია')
