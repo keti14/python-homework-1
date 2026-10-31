@@ -1,0 +1,3 @@
+word = input('დაწერეთ სიტყვა - ')
+times = input('აირჩიეთ რიცხვი - ')
+print( (word + ' ')*int(times))
