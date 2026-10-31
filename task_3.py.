@@ -1,0 +1,5 @@
+
+input_1 = input('ჩაწერეთ რიცხვი - ')
+number_1 = input_1 or 0
+float_1 = float(number_1)
+print(float_1**2)
